@@ -33,7 +33,7 @@ Basic experience with SalesForce development.
 
 ##### Courses certificates
 
-- Structured analysis of Systems (31 horas) @ Bradesco Foundation
+- Structured analysis of Systems (31 hours) @ Bradesco Foundation
 - [Git Completo: Do Básico ao Avançado](https://www.udemy.com/certificate/UC-G9TBM6HV/)
 - [The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/certificate/UC-F1EUNH27/)
 - [Master Electron v5: Desktop Apps with HTML, JavaScript & CSS](https://www.udemy.com/certificate/UC-3SOL87NX/)
