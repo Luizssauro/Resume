@@ -3,7 +3,7 @@
 ---
 
 > This resumé is available in the following languages:
-> [pt-BR](https://github.com/Luizssauro/Resume/blob/master/README_pt-BR.md), [en-US](https://github.com/Luizssauro/Resume), [es-ES](https://github.com/Luizssauro/Resume/blob/master/README_pt-BR.md)
+> [pt-BR](https://github.com/Luizssauro/Resume/blob/master/README_pt-BR.md), [en-US](https://github.com/Luizssauro/Resume), [es-ES](https://github.com/Luizssauro/Resume/blob/master/README_es-ES.md)
 
 #### Contact
 
