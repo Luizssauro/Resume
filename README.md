@@ -2,55 +2,68 @@
 
 ---
 
-####Contato
-:calling: (11) 993 589 021
+> This resumé is available in the following languages:
+> [pt-BR](./README_pt-BR.MD), [en-US](./README.MD), [es-ES](./README_es-ES.MD)
+
+#### Contact
+
+:calling: +55 (11) 993 589 021
 :e-mail: luiz.favaro@live.com
-:computer: [https://favaro.me](https://favaro.me) (em construção :construction:)
-
-#Objetivo
-Management Information System Analyst (MIS).
-
-###Perfil profissional
-Aprendizado rápido, habilidades avançadas em informática, pacote Office avançado (Excel, Access, PowerPoint, Word e
-Outlook) com vba e formulários, análise de indicadores, criação de relatórios, boa dicção, dinamismo e objetividade,
-organização, responsabilidade e interesse em aprender. Conhecimentos em linguagem VB.NET com Visual Studio 2013 e
-desenvolvimento (estruturação, manutenção, procedures, etc) em bancos de dados SQL Server 2008 R2. Linguagens WEB
-(HTML, CSS, JavaScript com os frameworks AngularJS, NodeJS, bootstrap, expressJS) tanto em backend como em frontend.
-Experiência básica na plataforma SalesForce (Modelagem de dados, customização de interface de usuário, SalesForce1
-Mobile, Reports & Dashboards).
-
-###Formação
-
-- Escolaridade
-  - Ensino superior cursando (previsão de termino Dez/2017) - Curso: Analise e desenvolvimento de
-    sistemas
-- Cursos Complementares
-  - Análise Estruturada de Sistemas (31 horas) pela fundação Bradesco
-
-### Idiomas
-
-|             | Ingles :us:/:uk: | Espanhol :es: |
-| :---------- | :--------------: | :-----------: |
-| Leitura     |     Avançado     |    Básico     |
-| Escrita     |     Avançado     |    Básico     |
-| Conversação |     Avançado     |    Básico     |
-
-- Espanhol: leitura intermediária, escrita intermediária, conversação básica.
-- Inglês: leitura avançada, escrita avançada, conversação intermediária.
-
-### Histórico profissional
-
-- ##### Teleperformance – Maio/2013 - Abril/2015
-  - Analista WFM Pleno
-    ###### Responsável pela manutenção de relatórios, desenvolvimento de backend em SQLServer (foco em modelagem de dados, ETL e criação de procedures) para novos relatórios e aplicações.
-- ##### Atento S/A– Fevereiro/2010 a Maio/2013 (3 anos e 3 meses)
-  - Analista de Informações de Negócio Pleno
-    ###### Responsável pela desenvolvimento, geração, manutenção e conferência de relatórios gerenciais agregando informações de difentes fontes como banco de dados em access e ETLs de extração de diferentes CRMs.
-- ##### Dia % Brasil- Outubro/2008 a Outubro/2009 (1 ano)
-  - Auxiliar Administrativo Fiscal
-    ###### Responsável pelo registro de notas fiscais de entrada, conferência de dados junto ao sistema AS400 (CFOP,Alíquotas, NCM's)
+:computer: [https://favaro.me](https://favaro.me) (under construction :construction:)
 
 ---
 
-> Este currirulo está disponivel nos seguintes idiomas:
-> [pt-BR](./README_pt-BR.MD), [en-US](./README_en-US.MD), [es-ES](./README_es-ES.MD)
+## Current Objective
+
+Business Support Analyst.
+
+---
+
+### Profissional profile
+
+Quick learning, great skills in tech related topics, advanced (VBA enabled) in Office suite (`Excel`, `PowerPoint`, `Word`, `Access`, `Outlook`) and O365 Suite (`Planner`, `Tasks`, `Flow`, `Forms`), KPI analysis, dashboard design, focused, organized, self-driven work.
+Experience in data modeling, `SQL queries`,`Data bases (Relational: MS SQL, MySQL, MariaDB, Postgrees and NOSQL: MongoDB)`,`Web development in both front and backend`, `HTML`, `CSS`, `Javascript`, frameworks `ExpressJS, Boostrap 4, NodeJS, Mongoose, React and others`.
+Basic experience with SalesForce development.
+
+---
+
+### Education
+
+- ##### Formal education
+  - Analysis and Systems Development (On hold)
+- ##### Courses certificates
+  - Structured analysis of Systems (31 horas) @ Bradesco Foundation
+  - [Git Completo: Do Básico ao Avançado](https://www.udemy.com/certificate/UC-G9TBM6HV/)
+  - [The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/certificate/UC-F1EUNH27/)
+  - [Master Electron v5: Desktop Apps with HTML, JavaScript & CSS](https://www.udemy.com/certificate/UC-3SOL87NX/)
+
+---
+
+### Languages
+
+|              | English :us:/:uk: | Spanish :es: | Portuguese |
+| :----------- | :---------------: | :----------: | :--------: |
+| **Reading**  |     Advanced      | Intermediate |   Native   |
+| **Writing**  |     Advanced      | Intermediate |   Native   |
+| **Speaking** |     Advanced      |    Basic     |   Native   |
+
+---
+
+### Working experience
+
+_May/2013 - April/2015_ - Teleperformance
+
+**WFM analyst**
+Responsible for daily reports run and maintenance, quality KPI analysis, configuring, developing and maintaining a SQLServer (data modeling, ETL's and procedures creation) for new reports and applications.
+
+_February/2010 a May/2013 (3 years and 3 months)_ - Atento S/A
+
+**MIS Analyst**
+Main work was to create, maintain and doublecheck manegement reports, compiling information from different sources in an `Access` database creating `ETL's` on different `CRM's`.
+
+_October/2008 a October/2009 (1 year)_ - Dia % Brasil
+
+**Auxiliar Administrativo Fiscal**
+Responsible for entering invoices on legacy system `AS400` and doublecheck taxes, correct use of item codes, etc
+
+---
