@@ -7,19 +7,17 @@
 
 #### Contact
 
-:calling: +55 (11) 993 589 021
-:e-mail: luiz.favaro@live.com
-:computer: [https://favaro.me](https://favaro.me) (under construction :construction:)
+:calling: +55 (11) 993 589 021<br>:e-mail: luiz.favaro@live.com<br>:computer: [https://favaro.me](https://favaro.me) (under construction :construction:)<br>
 
 ---
 
-## Current Objective
+### Current Objective
 
 Business Support Analyst.
 
 ---
 
-### Profissional profile
+### About me
 
 Quick learning, great skills in tech related topics, advanced (VBA enabled) in Office suite (`Excel`, `PowerPoint`, `Word`, `Access`, `Outlook`) and O365 Suite (`Planner`, `Tasks`, `Flow`, `Forms`), KPI analysis, dashboard design, focused, organized, self-driven work.
 Experience in data modeling, `SQL queries`,`Data bases (Relational: MS SQL, MySQL, MariaDB, Postgrees and NOSQL: MongoDB)`,`Web development in both front and backend`, `HTML`, `CSS`, `Javascript`, frameworks `ExpressJS, Boostrap 4, NodeJS, Mongoose, React and others`.
@@ -29,13 +27,16 @@ Basic experience with SalesForce development.
 
 ### Education
 
-- ##### Formal education
-  - Analysis and Systems Development (On hold)
-- ##### Courses certificates
-  - Structured analysis of Systems (31 horas) @ Bradesco Foundation
-  - [Git Completo: Do Básico ao Avançado](https://www.udemy.com/certificate/UC-G9TBM6HV/)
-  - [The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/certificate/UC-F1EUNH27/)
-  - [Master Electron v5: Desktop Apps with HTML, JavaScript & CSS](https://www.udemy.com/certificate/UC-3SOL87NX/)
+##### Formal education
+
+- Analysis and Systems Development (On hold)
+
+##### Courses certificates
+
+- Structured analysis of Systems (31 horas) @ Bradesco Foundation
+- [Git Completo: Do Básico ao Avançado](https://www.udemy.com/certificate/UC-G9TBM6HV/)
+- [The Complete Node.js Developer Course (3rd Edition)](https://www.udemy.com/certificate/UC-F1EUNH27/)
+- [Master Electron v5: Desktop Apps with HTML, JavaScript & CSS](https://www.udemy.com/certificate/UC-3SOL87NX/)
 
 ---
 
