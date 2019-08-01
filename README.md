@@ -7,7 +7,7 @@
 
 #### Contact
 
-:calling: +55 (11) 993 589 021<br>:e-mail: luiz.favaro@live.com<br>:computer: [https://favaro.me](https://favaro.me) (under construction :construction:)<br>
+:calling: +55 (11) 993 589 021<br>:e-mail: luiz.favaro@live.com<br>:computer: [https://favaro.me](https://luizssauro.dev/) (under construction :construction:)<br>
 
 ---
 
