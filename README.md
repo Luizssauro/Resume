@@ -3,17 +3,17 @@
 ---
 
 > This resumé is available in the following languages:
-> [pt-BR](https://github.com/Luizssauro/Resume/blob/master/README_pt-BR.md), [en-US](https://github.com/Luizssauro/Resume), [es-ES](https://github.com/Luizssauro/Resume/blob/master/README_es-ES.md)
+> [pt-BR](https://github.com/Luizssauro/Resume/blob/master/README_pt-BR.md) (under construction :construction:), [en-US](https://github.com/Luizssauro/Resume), [es-ES](https://github.com/Luizssauro/Resume/blob/master/README_es-ES.md) (under construction :construction:)
 
 #### Contact
 
-:calling: +55 (11) 993 589 021<br>:e-mail: luiz.favaro@live.com<br>:computer: [https://favaro.me](https://luizssauro.dev/) (under construction :construction:)<br>
+:calling: +55 (11) 993 589 021<br>:e-mail: luiz.favaro@live.com<br>:computer: [https://favaro.me]<br>
 
 ---
 
 ### Current Objective
 
-Business Support Analyst.
+Developer Javascipt/Node.js
 
 ---
 
@@ -21,7 +21,6 @@ Business Support Analyst.
 
 Quick learning, great skills in tech related topics, advanced (VBA enabled) in Office suite (`Excel`, `PowerPoint`, `Word`, `Access`, `Outlook`) and O365 Suite (`Planner`, `Tasks`, `Flow`, `Forms`), KPI analysis, dashboard design, focused, organized, self-driven work.
 Experience in data modeling, `SQL queries`,`Data bases (Relational: MS SQL, MySQL, MariaDB, Postgrees and NOSQL: MongoDB)`,`Web development in both front and backend`, `HTML`, `CSS`, `Javascript`, frameworks `ExpressJS, Boostrap 4, NodeJS, Mongoose, React and others`.
-Basic experience with SalesForce development.
 
 ---
 
@@ -53,7 +52,20 @@ Basic experience with SalesForce development.
 
 ### Working experience
 
-_May/2013 - April/2015_ - Teleperformance
+_Jan/2017 - June/2020 (3 years and 5 months )_ - Concentrix
+
+**Developer** (2 years and 2 months)
+As i worked as TL, the need for a CRM tool, i began `developing` from scratch on my spare time. I was invited to work on IT where i could focus on developing the CRM and many other ad-hoc scripts and tools. Some of my developments was a `CRM` (at first on `PHP` and later migrated to `NodeJS`) with more than 800 users on 2 major accounts, a screen recording and remote monitoring tool (made on `ElectronJS`, `NodeJS` and using `WebRTC`) used on a major baking account for quality assurance.
+
+**MIS team lead** (1 year)
+Soon i was promoted to team lead to further `train the current team` and `engage with customers`, taking leading role on `monthly performance presentation` on client site, developing custom reports and helping interal customer understand and `improve the KPI's`.
+
+**MIS Analyst SR** (3 months)
+I was invited to work at CNX to help `structure` and `develop` the MIS department as the company started to grow. My main job was to develop tools to extract the information from many different CRM and data sources like dialers and Avayas and structure the `data warehouse` for later consultation creating the necessary jobs and `ETL's`. Creating reports at first on excel and migrating to `Power BI` as a first milestone at CNX Brasil.
+
+****
+
+_May/2013 - April/2015 (1 year and 11 months)_ - Teleperformance
 
 **WFM analyst**
 Responsible for daily reports run and maintenance, quality KPI analysis, configuring, developing and maintaining a SQLServer (data modeling, ETL's and procedures creation) for new reports and applications.
