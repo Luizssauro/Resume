@@ -7,7 +7,7 @@
 
 #### Contact
 
-:calling: +55 (11) 993 589 021<br>:e-mail: luiz.favaro@live.com<br>:computer: [https://favaro.me]<br>
+:calling: +55 (11) 993 589 021<br>:e-mail: luiz.favaro@live.com<br><br>
 
 ---
 
@@ -54,30 +54,29 @@ Experience in data modeling, `SQL queries`,`Data bases (Relational: MS SQL, MySQ
 
 _Jan/2017 - June/2020 (3 years and 5 months )_ - Concentrix
 
-**Developer** (2 years and 2 months)
+**Developer** (2 years and 2 months)<br>
 As i worked as TL, the need for a CRM tool, i began `developing` from scratch on my spare time. I was invited to work on IT where i could focus on developing the CRM and many other ad-hoc scripts and tools. Some of my developments was a `CRM` (at first on `PHP` and later migrated to `NodeJS`) with more than 800 users on 2 major accounts, a screen recording and remote monitoring tool (made on `ElectronJS`, `NodeJS` and using `WebRTC`) used on a major baking account for quality assurance.
 
-**MIS team lead** (1 year)
+**MIS team lead** (1 year)<br>
 Soon i was promoted to team lead to further `train the current team` and `engage with customers`, taking leading role on `monthly performance presentation` on client site, developing custom reports and helping interal customer understand and `improve the KPI's`.
 
-**MIS Analyst SR** (3 months)
+**MIS Analyst SR** (3 months)<br>
 I was invited to work at CNX to help `structure` and `develop` the MIS department as the company started to grow. My main job was to develop tools to extract the information from many different CRM and data sources like dialers and Avayas and structure the `data warehouse` for later consultation creating the necessary jobs and `ETL's`. Creating reports at first on excel and migrating to `Power BI` as a first milestone at CNX Brasil.
 
-****
 
 _May/2013 - April/2015 (1 year and 11 months)_ - Teleperformance
 
-**WFM analyst**
+**WFM analyst**<br>
 Responsible for daily reports run and maintenance, quality KPI analysis, configuring, developing and maintaining a SQLServer (data modeling, ETL's and procedures creation) for new reports and applications.
 
 _February/2010 a May/2013 (3 years and 3 months)_ - Atento S/A
 
-**MIS Analyst**
+**MIS Analyst**<br>
 Main work was to create, maintain and doublecheck manegement reports, compiling information from different sources in an `Access` database creating `ETL's` on different `CRM's`.
 
 _October/2008 a October/2009 (1 year)_ - Dia % Brasil
 
-**Auxiliar Administrativo Fiscal**
+**Auxiliar Administrativo Fiscal**<br>
 Responsible for entering invoices on legacy system `AS400` and doublecheck taxes, correct use of item codes, etc
 
 ---
